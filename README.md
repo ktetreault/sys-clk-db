@@ -160,6 +160,14 @@ handheld_mem=665
 ```
 
 ```ini
+; Carrion
+; Underclock to save battery - Stable 60fps
+[0100B1600E9AE000]
+handheld_cpu=612
+handheld_gpu=153
+```
+
+```ini
 ; Castle Crashers Unlimited
 ; Underclock to save battery @60fps
 [010001300D14A000]
@@ -1013,3 +1021,13 @@ handheld_mem=1600
 handheld_gpu=153
 handheld_mem=665
 ```
+
+```ini
+; Yu-Gi-Oh! Legacy of the Duelist: Link Evolution
+; Underclock to save battery
+; 55-60fps in Story Duels
+[010022400BE5A000]
+handheld_cpu=612
+handheld_gpu=76
+```
+
